@@ -1,0 +1,12 @@
+{
+  "manifest_version": 3,
+  "name": "Pomodoro Timer",
+  "description": "Obejeto de estudo para desenvolvimento de extensoes",
+  "version": "1.0.0",
+  "action": {
+    "default_popup": "index.html"
+  },
+  "permissions": ["scripting", "activeTab"],
+  "icons": {},
+  "author": "developer@example.com"
+}
